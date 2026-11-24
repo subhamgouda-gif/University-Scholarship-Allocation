@@ -51,3 +51,7 @@ START -> Read student list -> Check subject marks and eligibility
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://university-scholarship-allocation-unzqdqeavixsan4khjprrs.streamlit.app/
